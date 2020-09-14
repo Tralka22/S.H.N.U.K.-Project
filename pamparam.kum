@@ -2,11 +2,11 @@
 алг
 нач
 лит b
-b := "helloworld.txt"
+b := "helloworld.py"
 файл m
 m := открыть на запись(b)
 лит text
-text := "ну привет, МИР"
+text := "import Flask"
 вывод m, text
 закрыть(m)
 кон
