@@ -1,0 +1,9 @@
+{
+	"name": { "ascii": "Joker", "ru_RU": "Джокер" },
+	"description": { "ru_RU": "ИМЕННО ОН" },
+	"methods": [
+	{
+		"name": { "ascii": "joke", "ru_RU": "пошутить" }
+	}
+	]
+}
